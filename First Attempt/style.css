@@ -1,0 +1,22 @@
+* {
+    margin:0;
+    padding:0;
+}
+
+h1 {
+    background-color: yellow;
+    color: black;
+    text-align: center;
+}
+
+ul {
+    float: left;
+    padding: 10px;
+    background-color: black;
+    color: yellow;
+}
+
+li {
+    background-color: yellow;
+    padding: 10px;
+}
